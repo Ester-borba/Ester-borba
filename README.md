@@ -1,4 +1,4 @@
- ## Oiii eu sou a Ester Borba , Programdora full stack  !
+ ## Oiii eu sou a Ester Borba , Programadora full stack  !
 
  👩‍💻 Estudante do 3° Periodo de Analise e Desenvolvimento de Sistema <br>
  
