@@ -4,6 +4,8 @@
  
  😄 Pronouns: Ela /Dela 
 
+# Experiência em programação de aplicações web.
+# Conhecimentos de programação orientada a objetos.
 
 ##
  
