@@ -1,6 +1,6 @@
  ## Oiii eu sou a Ester Borba , Programadora full stack  !
 
- 👩‍💻 Estudante do 3° Periodo de Analise e Desenvolvimento de Sistema <br>
+ 👩‍💻 Estudante do 5° Periodo de Analise e Desenvolvimento de Sistema <br>
  
  😄 Pronouns: Ela /Dela 
 
