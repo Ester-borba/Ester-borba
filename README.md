@@ -57,10 +57,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ester%20Borba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-borba-a8bba01b0)  
-[![Email](https://img.shields.io/badge/Gmail-esterborbaborbacosta@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto:esterborbaborbacosta@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-esterborbaborbacosta@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esterborbaborbacosta@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ester%20Borba-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
 
-
-
 </div>
+
