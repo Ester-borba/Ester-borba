@@ -32,18 +32,28 @@
 ---
 
 ## 📂 Projetos em destaque
-- 🌐 [Meu Portfólio em Angular](https://github.com/Ester-borba/portfolio-angular)  
+- 🌐 [Portfólio em Angular](https://github.com/Ester-borba/portfolio-angular)  
 - 📊 [Sistema de Cadastro com Node.js + PostgreSQL](https://github.com/Ester-borba/cadastro-node-postgres)  
 - 🎨 [Aplicação Front-end com React](https://github.com/Ester-borba/react-app)  
 
 ---
 
 ## 📈 Estatísticas do GitHub
-![Ester GitHub stats](https://github-readme-stats.vercel.app/api?username=Ester-borba&show_icons=true&theme=radical)
+<div align="center">
+  
+![Ester GitHub stats](https://github-readme-stats.vercel.app/api?username=Ester-borba&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-borba&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-borba&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)
+
+</div>
 
 ---
 
 ## 🌐 Conecte-se comigo
-[LinkedIn](www.linkedin.com/in/ester-borba-a8bba01b0) | [Portfólio](https://seu-portfolio.com) | [Email](esterborbacosta@gmail.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-linkedin)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)  
+[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)  
+
+</div>
