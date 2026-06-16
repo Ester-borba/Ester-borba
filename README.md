@@ -46,4 +46,4 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Portfólio](https://seu-portfolio.com) | [Email](mailto:seuemail@gmail.com)
+[LinkedIn](www.linkedin.com/in/ester-borba-a8bba01b0) | [Portfólio](https://seu-portfolio.com) | [Email](esterborbacosta@gmail.com)
